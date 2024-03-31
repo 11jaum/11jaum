@@ -7,7 +7,7 @@
 
 ![11jaum GitHub stats](https://github-readme-stats.vercel.app/api?username=11jaum&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11jaum&layout=donut)]()
 
 Tecnologias que eu mais utilizo:
 <div style= "display: inline_block">
