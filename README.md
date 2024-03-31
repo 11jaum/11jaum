@@ -9,17 +9,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-Tecnologias que e mais utilizo:
+Tecnologias que eu mais utilizo:
 
-<div style= "display: inline">
+<div style= "display: inline_block">
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div> <br>
-<div style= "display: inline">
+<div style= "display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 </div> <br>
-<div style= "display: inline">
+<div style= "display: inline_block">
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div> <br>
-<div style= "display: inline">
+<div style= "display: inline_block">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div> <br>
