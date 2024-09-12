@@ -4,7 +4,6 @@
 )](https://www.linkedin.com/in/joão-pedro-duarte-477174290/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me//+5511995871871)
 
-![11jaum GitHub stats](https://github-readme-stats.vercel.app/api?username=11jaum&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11jaum&layout=donut)]()
 
